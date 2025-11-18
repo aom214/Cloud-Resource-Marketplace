@@ -39,7 +39,7 @@ The platform ensures **isolation using Docker/Kubernetes** and uses **real-time 
 ---
 
 ## 🏗️ Architecture Diagram
-> *(Add your diagram in `docs/architecture.png`)*
+
 
 ![Architecture Diagram](docs/architecture.png)
 
@@ -161,3 +161,4 @@ The platform ensures **isolation using Docker/Kubernetes** and uses **real-time 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>
 cd <repo-name>
+
